@@ -95,3 +95,10 @@ function inverteString(string) {
     return invertida;
 }
 console.log(inverteString("abcdefg"));
+//dados JSON JAVAscript object notation
+let dados = {
+    "nome": "João",
+    "idade": 20,
+    "cidade": "São Paulo"
+}
+console.log(dados);
